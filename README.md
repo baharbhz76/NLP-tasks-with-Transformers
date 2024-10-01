@@ -17,6 +17,8 @@ To run this project, ensure you have Python (version 3.6 or higher) and the requ
 
 ### 1. **Clone the Repository**
 ### 2. Install the Required Dependencies
-
+```bash
+git clone https://github.com/yourusername/yourrepository.git
+cd yourrepository
 pip install flask transformers datasets tensorflow rouge-score
 pip install transformers[sentencepiece]
