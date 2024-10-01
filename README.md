@@ -16,6 +16,7 @@ This project demonstrates various Natural Language Processing (NLP) tasks using 
 To run this project, ensure you have Python (version 3.6 or higher) and the required libraries installed.
 
 ### 1. **Clone the Repository**
+### 2. Install the Required Dependencies
 ```bash
 git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
