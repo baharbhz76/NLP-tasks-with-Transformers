@@ -2,14 +2,17 @@
 
 ## **Overview**
 
-This project demonstrates various Natural Language Processing (NLP) tasks using the Hugging Face Transformers library. The tasks covered include:
+This repository contains two Jupyter notebooks that demonstrate various Natural Language Processing (NLP) tasks using Hugging Face’s Transformers library. These notebooks explore text classification and a variety of other NLP tasks.
+## Notebooks
+# 1. NLP_tasks_with_Transformers.ipynb
+This notebook demonstrates multiple NLP tasks, including:
 
-- Classifying whole sentences
-- Classifying each word in a sentence (Named Entity Recognition)
-- Answering questions given a context
-- Text summarization
-- Fill in the blanks
-- Translating from one language to another
+- Classifying Whole Sentences: Sentiment analysis using a pre-trained model.
+- Named Entity Recognition (NER): Identifying entities within text, such as organizations, people, and locations.
+- Question Answering: Answering questions based on a given context.
+- Text Summarization: Summarizing large blocks of text into concise versions.
+- Fill in the Blanks: Completing sentences with missing words using a pre-trained model.
+Translation: Translating text from one language to another (e.g., English to German).
 
 ## **Installation**
 
