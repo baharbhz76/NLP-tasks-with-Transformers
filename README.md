@@ -17,8 +17,8 @@ Translation: Translating text from one language to another (e.g., English to Ger
 # 2. IMDB_text_classification.ipynb
 This notebook focuses on classifying movie reviews from the IMDB dataset using a pre-trained model from Hugging Face. It demonstrates:
 
--Text Classification: Predicting the sentiment of movie reviews (positive or negative) using transformers.
--Model Evaluation: Evaluating the performance of the classifier on the test dataset.
+- Text Classification: Predicting the sentiment of movie reviews (positive or negative) using transformers.
+- Model Evaluation: Evaluating the performance of the classifier on the test dataset.
 
 ## **Installation**
 
