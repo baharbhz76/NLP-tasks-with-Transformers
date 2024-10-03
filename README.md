@@ -14,14 +14,24 @@ This notebook demonstrates multiple NLP tasks, including:
 - Fill in the Blanks: Completing sentences with missing words using a pre-trained model.
 Translation: Translating text from one language to another (e.g., English to German).
 
+# 2. IMDB_text_classification.ipynb
+This notebook focuses on classifying movie reviews from the IMDB dataset using a pre-trained model from Hugging Face. It demonstrates:
+
+-Text Classification: Predicting the sentiment of movie reviews (positive or negative) using transformers.
+-Model Evaluation: Evaluating the performance of the classifier on the test dataset.
+
 ## **Installation**
 
 To run this project, ensure you have Python (version 3.6 or higher) and the required libraries installed.
 
 ### 1. **Clone the Repository**
-### 2. Install the Required Dependencies
 ```bash
 git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
-pip install flask transformers datasets tensorflow rouge-score
+```
+
+### 2. Install the Required Dependencies
+
+```pip install flask transformers datasets tensorflow rouge-score
 pip install transformers[sentencepiece]
+```
